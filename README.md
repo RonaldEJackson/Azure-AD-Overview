@@ -60,8 +60,11 @@
    [![Part 3](https://i.vimeocdn.com/video/1650062688-f002defe9163278411c198fc03cde5436e68fad140f57c2b66cfed3eb049118f-d_295x166?r=pad)](https://vimeo.com/814445527 "Azure AD Lab Part 3")
    <br />
    <br />   
+   
+   
+This is the end of the tutorial. I hope it helped you out!
     
-    This is the end of the tutorial. I hope it helped you out!
+   
    
    <h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
    
