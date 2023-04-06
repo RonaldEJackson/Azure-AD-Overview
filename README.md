@@ -7,20 +7,14 @@
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines) abbreviated VM. VMs are used to install the software that is used to analyze the traffic being sent.
+- Microsoft Azure Cloud Platform
 
-- Remote Desktop Protocol (RDP) is used to connect to the virtual machines and it is one type of traffic observed in wireshark. 
 
-- Various Command-Line Tools are used such as Command Prompt for ping commands and Powershell to ssh into the second virtual machine.
+<h2>Resources Used </h2>
 
-- Network Protocols (SSH, RDH, DNS, ICMP, DHCP) are observed in wireshark as both VMs communicate with each other under various commands.
+- Azure Resource Groups
+- Access Control (IAM)
 
-- Wireshark is the network traffic analyzer used to observe the different types of traffic being sent between both VMs.
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
 
 <h2>Video Demonstrations</h2>
 
