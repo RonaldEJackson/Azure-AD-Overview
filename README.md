@@ -4,6 +4,10 @@
 <br />
 <br />
 
+<h2>Azure Active Directory Overview (User & Group Creation/Access Management Configuration</h2>
+
+In this tutorial I demonstrate Azure Active Directory user account creation, group creation and access management configuration.
+
 
 <h2>Environments and Technologies Used</h2>
 
