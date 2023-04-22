@@ -22,6 +22,14 @@ In this tutorial I demonstrate Azure Active Directory user account creation, gro
 
 <h2>Video Demonstrations</h2>
 
+Click below for Video Demonstrations:
+ 
+ <details close>
+
+<div>
+
+</summary>
+
 1. Configure and Observe Tenant-Level Global Reader
 
    - Create a user within Azure Active Directory (AAD) (username: globalreaderjohn)
